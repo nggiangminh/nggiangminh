@@ -35,5 +35,4 @@
 ### 🔹 GitHub Overview  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nggiangminh&layout=compact&theme=radical)
 
-### 🔹 Coding Activity (WakaTime)  
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wakamimh2263&layout=compact&theme=radical)
+
