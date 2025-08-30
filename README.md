@@ -37,4 +37,4 @@
 
 ## 🌐 Connect with me  
 📫 Email: **nguyengiangminh99@example.com**  
-💼 LinkedIn: [linkedin.com/in/minh](#)  
+💼 LinkedIn: [https://www.linkedin.com/in/minh-nguyen-giang48a8/](#)  
